@@ -2,9 +2,6 @@
 
 Aplicación web desarrollada con **Streamlit** que consume la API REST pública del **Portal de Datos Abiertos del Gobierno de Chile** ([datos.gob.cl](https://datos.gob.cl)) para obtener, analizar y visualizar el registro de permisos de circulación 2023 publicado por la Municipalidad de Calbuco.
 
-> **Asignatura:** FITO9017 — Programación en Python  
-> **Evaluación:** Solemne II — Unidad 3, Semana 13  
-> **Universidad:** San Sebastián — FIAD
 
 ---
 
